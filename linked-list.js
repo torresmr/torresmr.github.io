@@ -91,19 +91,19 @@ class LinkListPage {
                 description: 'Optimal solution with three pointers. Time complexity: O(n)',
                 complexity: 'Solution',
                 examples: [],
-                url: 'https://leetcode.com/problems/contains-duplicate/solutions/'
+                url: 'https://leetcode.com/problems/reverse-linked-list'
             },
             'reverse-link-list-solution-recusion': {
                 description: 'Solution with one pointer and recursion. Time complexity: O(n)',
                 complexity: 'Solution',
                 examples: [],
-                url: 'https://leetcode.com/problems/contains-duplicate/solutions/'
+                url: 'https://leetcode.com/problems/reverse-linked-list'
             },
             'detect-cycle-solution-optimal': {
                 description: 'Solution with fast and slow pointers. Time complexity: O(n)',
                 complexity: 'Solution',
                 examples: [],
-                url: 'https://leetcode.com/problems/two-sum/solutions/'
+                url: 'https://leetcode.com/problems/linked-list-cycle/solutions/'
             }
         };
         
