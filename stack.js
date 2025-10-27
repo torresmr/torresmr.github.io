@@ -85,7 +85,7 @@ class StackPage {
                 description: 'Optimal solution with stack. Time complexity: O(n)',
                 complexity: 'Solution',
                 examples: [],
-                url: 'https://leetcode.com/problems/contains-duplicate/solutions/'
+                url: 'https://leetcode.com/problems/valid-parentheses/'
             }
         };
         
