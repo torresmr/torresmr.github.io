@@ -91,13 +91,13 @@ class TreePage {
                 description: 'Solution with deep first search (DFS). Time complexity: O(n)',
                 complexity: 'Solution',
                 examples: [],
-                url: 'https://leetcode.com/problems/contains-duplicate/solutions/'
+                url: 'https://leetcode.com/problems/invert-binary-tree/description/'
             },
             'is-same-tree-solution-optimal': {
                 description: 'Solution with deep first search (DFS). Time complexity: O(n)',
                 complexity: 'Solution',
                 examples: [],
-                url: 'https://leetcode.com/problems/two-sum/solutions/'
+                url: 'https://leetcode.com/problems/same-tree/description/'
             }
         };
         
